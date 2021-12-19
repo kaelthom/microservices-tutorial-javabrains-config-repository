@@ -1,4 +1,4 @@
 # this file in the config server is specific for the movie-info service microservice
 # the application.name of the Spring Boot app must match the name of the YAML file
-my-list-values-variable: One,Two,ThreeFromConfigServerTotoFromMovieInfoServiceConfigFileUpdated
+my-list-values-variable: One,Two,ThreeFromConfigServerTotoFromMovieInfoServiceConfigFileUpdatedAgain
 my-map-values-variable: '{1:''One'',2:''Two'',3:''Three''}'
